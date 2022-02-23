@@ -11,10 +11,10 @@
    - Tensorflow
     
 ## Dataset
-   - Google Open Images Dataset V6+
+   - Open Images Dataset + Imgaug를 통한 데이터 증강
    
 ## GUI
    - TKinter
-   -  annaconda 
+   - Anaconda 
     
     
